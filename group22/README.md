@@ -8,5 +8,4 @@
 |Chen Qinquan|201810135053|member|
 
 **Website Url**  
-101.132.145.219
 http://101.132.145.219/wordpress
